@@ -1,0 +1,30 @@
+Day 1
+
+Azure Regions Link 
+
+https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
+
+
+Azure Regions Pair Link
+
+https://build5nines.com/azure-region-pairs-explained/#:~:text=An%20Azure%20Region%20Pair%20is,secondary%20region%20in%20the%20pair
+
+
+Pricing Link
+
+https://azure.microsoft.com/en-us/pricing/calculator/
+
+
+CLI Install 
+
+https://docs.microsoft.com/cli/azure/install-azure-cli
+
+
+Powershell Install
+
+https://docs.microsoft.com/powershell/azure/install-az-ps
+
+
+Storage Redundancy
+
+https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy
